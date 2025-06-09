@@ -1,0 +1,15 @@
+{
+  "blacklistedProcesses": [
+    "cheatengine",
+    "modmenu",
+    "xenos64",
+    "injector",
+    "phantomx",
+    "extasy",
+    "crosshairx",
+    "customcrosshair",
+    "aimbottool",
+    "memoryscanner",
+    "ghub"
+  ]
+}
